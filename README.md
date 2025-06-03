@@ -1,18 +1,40 @@
-Finance KPI Dashboard 📊🚀 
+# Finance KPI Dashboard
 
-Ce dashboard se concentre sur l'analyse des performances financières à travers deux pages principales :
+## 🎯 Objectif du projet  
+Analyser les performances financières d’une entreprise via un dashboard Power BI, avec un focus sur les ventes et la performance de l’équipe commerciale.
 
-<b>1. Analyse des Ventes :</b><br>
--Ventes Réalisées : Le total des ventes effectuées pendant une période donnée.<br>
--Ventes Souhaitées : L’objectif des ventes pour cette période.<br>
--Écart entre Ventes Réalisées et Ventes Souhaitées : La différence entre les ventes réalisées et les objectifs fixés (en valeur absolue et en pourcentage).<br>
--Performance de l'équipe : suivi des résultats individuels et collectifs pour une meilleure gestion des ressources.<br>
--Taux de Réalisation des Ventes : Pourcentage des ventes réalisées par rapport aux ventes souhaitées (Ventes Réalisées / Ventes Souhaitées x 100).<br>
--Croissance des Ventes : Variation des ventes par rapport à la période précédente.<br><br>
-<b>2. Performance de l'Équipe :</b><br>
--Ventes par Employé/Équipe : Mesure des ventes réalisées par chaque membre de l’équipe ou par groupes.<br>
--Objectif Atteint par Employé/Équipe : Pourcentage des objectifs de vente atteints par chaque membre ou équipe.<br>
--Productivité de l'Équipe : Ventes par employé par rapport à des critères de performance définis.<br>
--Classement des Performances : Positionnement des équipes par rapport à leurs objectifs et leurs résultats.<br>
--Rentabilité par Employé : Calcul de la rentabilité des ventes par membre d’équipe.<br><br>
+## 📊 Source des données  
+Fichier Excel (.xlsx) contenant les données de ventes et performances par employé et équipe.
+
+## 🔑 KPIs analysés  
+
+### Page 1 : Analyse des Ventes  
+- Total des ventes réalisées sur la période  
+- Ventes souhaitées (objectifs)  
+- Écart entre ventes réalisées et ventes souhaitées  
+- Taux de réalisation des ventes  
+- Croissance des ventes  
+
+### Page 2 : Performance de l’Équipe  
+- Ventes par employé / équipe  
+- Objectifs atteints par employé / équipe  
+- Productivité et classement des performances  
+- Rentabilité par employé  
+
+## 🛠️ Outils utilisés  
+- Power BI : Modélisation et visualisation des données.
+
+## 🗂️ Structure du projet  
+- Fichier Excel source  
+- Dashboard Power BI (.pbix)  
+- Captures d’écran des pages du dashboard
+
+## 📸 Aperçu du dashboard  
+
+
+---
+
+## 👩‍💻 À propos
+
+Je suis Data Analyst passionnée par la vulgarisation des données. Ce projet illustre ma capacité à analyser les données financières et à créer des dashboards clairs et actionnables avec Power BI.
 
