@@ -31,7 +31,7 @@ Fichier Excel (.xlsx) contenant les données de ventes et performances par emplo
 - Fichier Excel source  
 - Dashboard Power BI (.pbix)  
 - Captures d’écran des pages du dashboard
-- 
+  
 ## Accès au rapport interactif  
 Vous pouvez consulter et interagir avec le dashboard en ligne ici : https://app.powerbi.com/groups/me/reports/3282bd67-704c-49be-ab5d-e27a39af8c6c/61438390877d2c8e0106?experience=power-bi
 
