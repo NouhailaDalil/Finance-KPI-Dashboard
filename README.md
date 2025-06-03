@@ -1,5 +1,9 @@
 # Finance KPI Dashboard
 
+## Contexte  
+Dans un environnement compétitif, le suivi précis des performances financières et commerciales est crucial pour piloter efficacement l’activité. Ce dashboard Power BI facilite la compréhension des ventes et de la productivité des équipes, en fournissant des indicateurs clés clairs et actionnables.
+
+
 ## 🎯 Objectif du projet  
 Analyser les performances financières d’une entreprise via un dashboard Power BI, avec un focus sur les ventes et la performance de l’équipe commerciale.
 
@@ -38,5 +42,6 @@ Fichier Excel (.xlsx) contenant les données de ventes et performances par emplo
 
 ## 👩‍💻 À propos
 
-Je suis Data Analyst passionnée par la vulgarisation des données. Ce projet illustre ma capacité à analyser les données financières et à créer des dashboards clairs et actionnables avec Power BI.
+Je suis Data Analyst passionnée par la vulgarisation des données. Ce projet illustre ma capacité à analyser des données financières et à créer des dashboards clairs, précis et actionnables avec Power BI, pour faciliter la prise de décision.
+
 
