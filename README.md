@@ -3,7 +3,6 @@
 ## Contexte  
 Dans un environnement compétitif, le suivi précis des performances financières et commerciales est crucial pour piloter efficacement l’activité. Ce dashboard Power BI facilite la compréhension des ventes et de la productivité des équipes, en fournissant des indicateurs clés clairs et actionnables.
 
-
 ## 🎯 Objectif du projet  
 Analyser les performances financières d’une entreprise via un dashboard Power BI, avec un focus sur les ventes et la performance de l’équipe commerciale.
 
@@ -32,11 +31,14 @@ Fichier Excel (.xlsx) contenant les données de ventes et performances par emplo
 - Fichier Excel source  
 - Dashboard Power BI (.pbix)  
 - Captures d’écran des pages du dashboard
+- 
+## Accès au rapport interactif  
+Vous pouvez consulter et interagir avec le dashboard en ligne ici : [[Lien vers Power BI Service](https://app.powerbi.com/...)](https://app.powerbi.com/groups/me/reports/3282bd67-704c-49be-ab5d-e27a39af8c6c/61438390877d2c8e0106?experience=power-bi)
 
 ## 📸 Aperçu du dashboard  
-![Capture d'écran 2025-06-03 131555](https://github.com/user-attachments/assets/fddd04e2-7aa5-4fa1-a1b1-19470ca5edac)
+![Capture d'écran 2025-06-03 133900](https://github.com/user-attachments/assets/b56c5015-843e-4f4c-89aa-fc3c6a270b30)
 
-![Capture d'écran 2025-06-03 131623](https://github.com/user-attachments/assets/c3da1ae3-97fd-489d-9151-48cca141bd7a)
+![Capture d'écran 2025-06-03 133918](https://github.com/user-attachments/assets/0f472577-4945-4fc2-9737-38cbbe7afae6)
 
 ---
 
