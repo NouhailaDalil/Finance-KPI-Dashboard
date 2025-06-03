@@ -30,7 +30,9 @@ Fichier Excel (.xlsx) contenant les données de ventes et performances par emplo
 - Captures d’écran des pages du dashboard
 
 ## 📸 Aperçu du dashboard  
+![Capture d'écran 2025-06-03 131555](https://github.com/user-attachments/assets/fddd04e2-7aa5-4fa1-a1b1-19470ca5edac)
 
+![Capture d'écran 2025-06-03 131623](https://github.com/user-attachments/assets/c3da1ae3-97fd-489d-9151-48cca141bd7a)
 
 ---
 
